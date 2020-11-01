@@ -1,0 +1,13 @@
+package com.cenfotec.boot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BootJournalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(BootJournalApplication.class, args);
+	}
+
+}

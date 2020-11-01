@@ -1,0 +1,5 @@
+package com.cenfotec.boot.controllers;
+
+public class JournalController {
+
+}
